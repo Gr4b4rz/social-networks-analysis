@@ -1,5 +1,1 @@
-# Social networks analysis
-
-## Project 1 - Pajek and networkx
-
-## Project 2 - ...
+# Social networks analysis - pajek and networkx
